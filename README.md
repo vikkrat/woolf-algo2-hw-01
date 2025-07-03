@@ -34,7 +34,7 @@ goit-algo2-hw-01/
 ### 🔧 Як запустити: `python task_1_min_max.py`
 
 ### 📷 Результат: 
-[task_1_min_max](./screenshots/task_1_result.png)
+![task_1_min_max](./screenshots/task_1_result.png)
 
 
 ## ⭐ Завдання 2 (опціональне): Пошук k-го найменшого елемента
@@ -46,4 +46,4 @@ goit-algo2-hw-01/
 ### 🔧 Як запустити: `python task_2_quick_select.py`
 
 ### 📷 Результат:
-[task_2_quick_select](./screenshots/task_2_result.png)
+![task_2_quick_select](./screenshots/task_2_result.png)
